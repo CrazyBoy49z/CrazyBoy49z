@@ -4,7 +4,6 @@
 ### Languages
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=PHP)[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=javascript)![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=4479A1)![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=4479A1)
 
-
 ### Technologies
 
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
@@ -15,6 +14,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
 
+
+### Contacts
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/crazyboy49z)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yura.finiv.in.ua)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/crazyboy49z/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/crazyboy49z)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=CrazyBoy49z&theme=monokai&no-bg=true&margin-w=15&no-frame=true)
 
