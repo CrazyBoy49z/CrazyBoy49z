@@ -2,7 +2,10 @@
 ### Hi there 👋
 
 ### Languages
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=PHP)[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=javascript)![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=4479A1)![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=4479A1)
+[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=PHP)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=4479A1)![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=4479A1)
 
 ### Technologies
 
@@ -22,12 +25,16 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/crazyboy49z/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/crazyboy49z)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=CrazyBoy49z&theme=monokai&no-bg=true&margin-w=15&no-frame=true)
+### Info
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CrazyBoy49z&show_icons=true&theme=radical&count_private=true" width="400"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBoy49z&langs_count=10i&theme=radical&layout=compact&count_private=true" height="157"/>
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyBoy49z&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBoy49z&langs_count=10i&theme=radical&layout=compact)](https://github.com/CrazyBoy49z?tab=repositories)
-
+### Pined
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrazyBoy49z&repo=iconTV&theme=radical)](https://github.com/CrazyBoy49z/iconTV)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrazyBoy49z&repo=iconTV&theme=radical)](https://github.com/CrazyBoy49z/iconTV)
