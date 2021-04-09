@@ -27,10 +27,10 @@
 
 ### Info
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/CrazyBoy49z?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CrazyBoy49z&show_icons=true&theme=radical&count_private=true" width="400"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/CrazyBoy49z?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBoy49z&langs_count=10i&theme=radical&layout=compact&count_private=true" height="157"/>
 </a>
 
