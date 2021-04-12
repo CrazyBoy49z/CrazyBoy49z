@@ -34,6 +34,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBoy49z&langs_count=10i&theme=radical&layout=compact&count_private=true" height="157"/>
 </a>
 
+<a href="https://github.com/CrazyBoy49z?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=CrazyBoy49z&theme=radical" height="121"/>
+</a>
+
 ### Pined
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrazyBoy49z&repo=iconTV&theme=radical)](https://github.com/CrazyBoy49z/iconTV)
