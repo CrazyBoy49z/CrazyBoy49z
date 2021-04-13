@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://github.com/CrazyBoy49z?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=CrazyBoy49z&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=CrazyBoy49z&theme=radical&layout=compact"/>
 </a>
 
 ### Pined
