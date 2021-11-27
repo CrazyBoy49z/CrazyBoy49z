@@ -27,7 +27,7 @@
 
 
 
-### Statisti
+### Statistics
 
 <a href="https://github.com/CrazyBoy49z?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CrazyBoy49z&show_icons=true&theme=radical&count_private=true" width="400"/>
