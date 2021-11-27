@@ -1,5 +1,4 @@
-![PHP](https://media-exp1.licdn.com/dms/image/C4E16AQHeZNLEgwDyuQ/profile-displaybackgroundimage-shrink_350_1400/0/1617834485405?e=1623283200&v=beta&t=-wCU4ysfijofPx0SOS52Rndg4S2oxwysia3OHj80yAk)
-### Hi there 👋
+### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ### Languages
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=PHP)
@@ -26,7 +25,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/crazyboy49z/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/crazyboy49z)
 
-### Info
+
+
+### Statisti
 
 <a href="https://github.com/CrazyBoy49z?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CrazyBoy49z&show_icons=true&theme=radical&count_private=true" width="400"/>
@@ -38,6 +39,16 @@
 <a href="https://github.com/CrazyBoy49z?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=CrazyBoy49z&theme=radical&layout=compact"/>
 </a>
+
+
+### 🔥 Streak Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CrazyBoy49z&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<p align="center">
+<a href="https://github.com/CrazyBoy49z?tab=repositories">
+<img alt="CrazyBoy49z Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CrazyBoy49z&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
+</p>
 
 ### Pined
 
