@@ -1,4 +1,5 @@
-### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+<a href="https://secure.wayforpay.com/donate/crazyboy49zGithub" target="_blank"><img src="https://raw.githubusercontent.com/CrazyBoy49z/CrazyBoy49z/master/donation.svg" height="40" wight="40"></a>
 
 ### Languages
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=PHP)
