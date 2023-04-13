@@ -5,8 +5,11 @@
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=PHP)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-000?&logo=Alpine.js)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=4479A1)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 
 ### Technologies
 
