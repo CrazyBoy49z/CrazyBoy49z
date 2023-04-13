@@ -3,16 +3,13 @@
 
 ### Languages
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=PHP)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Alpine.js](https://img.shields.io/badge/-Alpine.js-000?&logo=Alpine.js)
-
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=4479A1)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+
 
 ### Technologies
-
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![MODX](https://img.shields.io/badge/-MODX-000?&logo=MODX)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
@@ -20,7 +17,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
-
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-000?&logo=Alpine.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 
 ### Contacts
 
