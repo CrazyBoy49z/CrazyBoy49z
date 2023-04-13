@@ -12,11 +12,13 @@
 ### Technologies
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![MODX](https://img.shields.io/badge/-MODX-000?&logo=MODX)
+
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
+
 ![Alpine.js](https://img.shields.io/badge/-Alpine.js-000?&logo=Alpine.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 
