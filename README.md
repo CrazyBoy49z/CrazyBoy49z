@@ -36,9 +36,7 @@
 <a href="https://github.com/CrazyBoy49z?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CrazyBoy49z&show_icons=true&theme=radical&count_private=true" width="400"/>
 </a>
-<a href="https://github.com/CrazyBoy49z?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBoy49z&langs_count=10i&theme=radical&layout=compact&count_private=true" height="157"/>
-</a>
+
 
 <a href="https://github.com/CrazyBoy49z?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=CrazyBoy49z&theme=radical&layout=compact"/>
@@ -47,12 +45,6 @@
 
 ### 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CrazyBoy49z&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<p align="center">
-<a href="https://github.com/CrazyBoy49z?tab=repositories">
-<img alt="CrazyBoy49z Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CrazyBoy49z&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a>
-</p>
 
 ### Pined
 
