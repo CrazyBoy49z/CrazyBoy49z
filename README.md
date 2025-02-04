@@ -51,9 +51,9 @@
 
 ### Pined
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrazyBoy49z&repo=iconTV&theme=radical)](https://github.com/CrazyBoy49z/iconTV)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=step2dev&repo=lazy-ui&theme=radical)](https://github.com/step2dev/lazy-ui)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrazyBoy49z&repo=PhpStorm-Live-Templates-Laravel&theme=radical)](https://github.com/CrazyBoy49z/PhpStorm-Live-Templates-Laravel)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=step2dev&repo=lazy-setting&theme=radical)](https://github.com/step2dev/lazy-setting)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrazyBoy49z&repo=iconTV&theme=radical)](https://github.com/CrazyBoy49z/iconTV)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrazyBoy49z&repo=PhpStorm-Live-Templates-MODX&theme=radical)](https://github.com/CrazyBoy49z/PhpStorm-Live-Templates-MODX)
 <!--
 **CrazyBoy49z/CrazyBoy49z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
