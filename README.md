@@ -17,8 +17,8 @@
 - 🔧 I’m a full-stack web developer with focus on **Laravel/PHP**, JS/TS, and clean UI architecture.
 - 🧪 Writing tested code with **Pest** and **PHPUnit** is part of my daily workflow.
 - ⚙️ I build open-source Laravel packages like [`lazy-ui`](https://github.com/step2dev/lazy-ui) and [`lazy-setting`](https://github.com/step2dev/lazy-setting).
-- 🚀 I enjoy pushing limits in **offline-first apps**, **military automation**, **drones**, and **IoT (ESP32/Arduino)**.
-- 💡 Currently diving into **Flutter**, **Python**, and embedded dev.
+- 💡 Currently expanding expertise in Flutter, Python, and embedded systems programming.
+
 
 > _"I don't use tools. I create them."_
 
