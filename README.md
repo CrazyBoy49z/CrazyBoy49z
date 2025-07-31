@@ -14,7 +14,6 @@ md
     <img src="https://raw.githubusercontent.com/CrazyBoy49z/CrazyBoy49z/master/donation.svg" height="40" alt="Donate button">
   </a>
   <br>
-  <small>Profile views:</small><br>
   <img src="https://komarev.com/ghpvc/?username=CrazyBoy49z" alt="Profile views counter" />
 </p>
 
