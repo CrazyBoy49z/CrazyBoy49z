@@ -1,34 +1,65 @@
-### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-<a href="https://secure.wayforpay.com/donate/crazyboy49zGithub" target="_blank"><img src="https://raw.githubusercontent.com/CrazyBoy49z/CrazyBoy49z/master/donation.svg" height="40" wight="40"></a>
+<h1 align="center">Hi, I'm Yurij (aka CrazyBoy49z) 👨‍💻</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CrazyBoy49z">
+  Web Developer | Laravel Architect | Open Source Maker<br>
+  Passionate about clean code, UI systems & battlefield tech
 </p>
 
-### Languages
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=PHP)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/CrazyBoy49z?tab=repositories&q=&type=&language=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=4479A1)
+<p align="center">
+  <a href="https://secure.wayforpay.com/donate/crazyboy49zGithub" target="_blank">
+    <img src="https://raw.githubusercontent.com/CrazyBoy49z/CrazyBoy49z/master/donation.svg" height="40">
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=CrazyBoy49z" />
+</p>
+
+### 👨‍💻 About Me
+
+- 🔧 I’m a full-stack web developer with focus on **Laravel/PHP**, JS/TS, and clean UI architecture.
+- 🧪 Writing tested code with **Pest** and **PHPUnit** is part of my daily workflow.
+- ⚙️ I build open-source Laravel packages like [`lazy-ui`](https://github.com/step2dev/lazy-ui) and [`lazy-setting`](https://github.com/step2dev/lazy-setting).
+- 🚀 I enjoy pushing limits in **offline-first apps**, **military automation**, **drones**, and **IoT (ESP32/Arduino)**.
+- 💡 Currently diving into **Flutter**, **Python**, and embedded dev.
+
+> _"I don't use tools. I create them."_
+
+### 🧰 Tech Stack
+
+**Languages**  
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)  ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=sqlite)  
+
+---
+
+**Backend & Frameworks**  
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)  ![Pest](https://img.shields.io/badge/-Pest-000?&logo=pest)  ![PHPUnit](https://img.shields.io/badge/-PHPUnit-000?&logo=phpunit)  ![Composer](https://img.shields.io/badge/-Composer-000?&logo=composer)  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)  ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=nginx)  ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)  
+
+---
+
+**Frontend & UI**  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)  ![Alpine.js](https://img.shields.io/badge/-Alpine.js-000?&logo=alpine.js)  ![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite)  ![Blade](https://img.shields.io/badge/-Blade-000?&logo=laravel)  
+
+---
+
+**Mobile & Embedded**  
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)  ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)  ![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif)  ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)  ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)  
+
+---
+
+**Platforms & Tools**  
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)  ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)  ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)  ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)  ![MODX](https://img.shields.io/badge/-MODX-000?&logo=modx)  ![JSON](https://img.shields.io/badge/-JSON-000?&logo=json)  
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-000?&logo=PHPStorm)  
+
+---
+
+**Currently Learning & Exploring**  
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)  ![EdgeTX](https://img.shields.io/badge/-EdgeTX-000?&logo=lua)  ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)  ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)  ![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif)  ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)  ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)  
 
 
-### Technologies
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![MODX](https://img.shields.io/badge/-MODX-000?&logo=MODX)
 
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
 
-![Alpine.js](https://img.shields.io/badge/-Alpine.js-000?&logo=Alpine.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
-
-### Contacts
+### 📬 Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/crazyboy49z)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://finiv.in.ua)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://step2.dev/user/@crazyboy49z)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/crazyboy49z/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/crazyboy49z)
 
