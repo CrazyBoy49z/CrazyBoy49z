@@ -1,67 +1,70 @@
-<h1 align="center">Hi, I'm Yurij (aka CrazyBoy49z) 👨‍💻</h1>
+Програма ChatGPT сказала:
+md
+Копіювати
+Редагувати
+<h1 align="center">Hi, I’m Yurij (aka CrazyBoy49z) 👨‍💻</h1>
+
 <p align="center">
-  Web Developer | Laravel Architect | Open Source Maker<br>
-  Passionate about clean code, UI systems & battlefield tech
+  Full-stack Web Developer | Laravel Architect | Open Source Creator<br>
+  Building secure, scalable, and clean applications with passion for UI systems & battlefield tech
 </p>
 
 <p align="center">
-  <a href="https://secure.wayforpay.com/donate/crazyboy49zGithub" target="_blank">
-    <img src="https://raw.githubusercontent.com/CrazyBoy49z/CrazyBoy49z/master/donation.svg" height="40">
+  <a href="https://secure.wayforpay.com/donate/crazyboy49zGithub" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/CrazyBoy49z/CrazyBoy49z/master/donation.svg" height="40" alt="Donate button">
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=CrazyBoy49z" />
+  <small>Profile views:</small><br>
+  <img src="https://komarev.com/ghpvc/?username=CrazyBoy49z" alt="Profile views counter" />
 </p>
 
 ### 👨‍💻 About Me
 
-- 🔧 I’m a full-stack web developer with focus on **Laravel/PHP**, JS/TS, and clean UI architecture.
-- 🧪 Writing tested code with **Pest** and **PHPUnit** is part of my daily workflow.
-- ⚙️ I build open-source Laravel packages like [`lazy-ui`](https://github.com/step2dev/lazy-ui) and [`lazy-setting`](https://github.com/step2dev/lazy-setting).
-- 💡 Currently expanding expertise in Flutter, Python, and embedded systems programming.
+I’m Yurij, a full-stack web developer and Laravel architect focused on creating **secure, scalable, and clean** applications.  
+Daily I write production-ready, tested code with **Pest** and **PHPUnit**.  
+I build open-source Laravel packages powering modern PHP ecosystems and explore embedded programming and mobile with Flutter and ESP32.
 
+> _"I don’t just use tools — I build them."_
 
-> _"I don't use tools. I create them."_
+---
 
 ### 🧰 Tech Stack
 
 **Languages**  
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)  ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=sqlite)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 
 ---
 
 **Backend & Frameworks**  
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)  ![Pest](https://img.shields.io/badge/-Pest-000?&logo=pest)  ![PHPUnit](https://img.shields.io/badge/-PHPUnit-000?&logo=phpunit)  ![Composer](https://img.shields.io/badge/-Composer-000?&logo=composer)  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)  ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=nginx)  ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  ![Pest](https://img.shields.io/badge/Pest-000000?style=flat&logo=pest)  ![PHPUnit](https://img.shields.io/badge/PHPUnit-9B59B6?style=flat&logo=phpunit&logoColor=white)  ![Composer](https://img.shields.io/badge/Composer-919EAB?style=flat&logo=composer&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  ![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
 **Frontend & UI**  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)  ![Alpine.js](https://img.shields.io/badge/-Alpine.js-000?&logo=alpine.js)  ![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite)  ![Blade](https://img.shields.io/badge/-Blade-000?&logo=laravel)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinejs)  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)  ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ---
 
 **Mobile & Embedded**  
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)  ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)  ![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif)  ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)  ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif)  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
 ---
 
 **Platforms & Tools**  
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)  ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)  ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)  ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)  ![MODX](https://img.shields.io/badge/-MODX-000?&logo=modx)  ![JSON](https://img.shields.io/badge/-JSON-000?&logo=json)  
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-000?&logo=PHPStorm)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  ![MODX](https://img.shields.io/badge/MODX-009444?style=flat&logo=modx&logoColor=white)  ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json)  ![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=flat&logo=phpstorm&logoColor=white)
 
 ---
 
 **Currently Learning & Exploring**  
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)  ![EdgeTX](https://img.shields.io/badge/-EdgeTX-000?&logo=lua)  ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)  ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)  ![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif)  ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)  ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)  
+Flutter · Lua · EdgeTX · Embedded Systems · Kotlin
 
-
-
+---
 
 ### 📬 Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/crazyboy49z)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://step2.dev/user/@crazyboy49z)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/crazyboy49z/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/crazyboy49z)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/crazyboy49z)  [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://step2.dev/user/@crazyboy49z)  [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/crazyboy49z/)  [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/crazyboy49z)
+
+---
 
 
 
@@ -76,9 +79,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=CrazyBoy49z&theme=radical&layout=compact"/>
 </a>
 
-
-### 🔥 Streak Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CrazyBoy49z&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### Pined
 
