@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="44" viewBox="0 0 720 44">
+  <rect width="720" height="44" rx="6" fill="#0d1117"/>
+  <rect x=".5" y=".5" width="719" height="43" rx="5.5" fill="none" stroke="#30363d"/>
+
+  <text x="14" y="28" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#8b949e">&gt;</text>
+
+  <text x="32" y="28" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#c9d1d9">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.28;0.34;1" dur="12s" repeatCount="indefinite"/>
+    working on Step2dev packages
+  </text>
+
+  <text x="32" y="28" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#c9d1d9">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34;0.35;0.61;0.67;1" dur="12s" repeatCount="indefinite"/>
+    mostly Laravel / PHP
+  </text>
+
+  <text x="32" y="28" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#c9d1d9">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.67;0.68;0.94;1" dur="12s" repeatCount="indefinite"/>
+    learning Raspberry Pi, ESP32 and embedded
+  </text>
+
+  <rect x="692" y="15" width="8" height="16" rx="1" fill="#8b949e">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;1" dur="1.05s" repeatCount="indefinite"/>
+  </rect>
+</svg>
